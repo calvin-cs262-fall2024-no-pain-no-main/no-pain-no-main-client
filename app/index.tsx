@@ -42,7 +42,6 @@ const Login = () => {
     }
   };
 
-
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Login</Text>
